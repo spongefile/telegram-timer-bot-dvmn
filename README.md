@@ -21,6 +21,7 @@ To install the required libraries, use pip:
 To start the bot, you must provide a valid Telegram bot token and a chat ID as environment variables. These can be obtained by creating a bot on Telegram using BotFather and then starting a conversation with the bot.
 
 ```export TELEGRAM_TOKEN=<your_telegram_bot_token>```
+
 ```export TG_CHAT_ID=<your_chat_id>```
 
 
